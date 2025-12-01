@@ -1,0 +1,93 @@
+{
+  "hero": {
+    "title": {
+      "tr": "ENDÜSTRİYEL DAYANIKLILIK 2",
+      "en": "INDUSTRIAL DURABILITY"
+    },
+    "subtitle": {
+      "tr": "Ağır Sanayi Ekipmanları için Yüzey Kaplama ve Kaynak Çözümleri",
+      "en": "Surface Coating and Welding Solutions for Heavy Industry Equipment"
+    },
+    "description": {
+      "tr": "Ağır Sanayi Ekipmanları için Yüzey Kaplama ve Kaynak Çözümleri",
+      "en": "Surface Coating and Welding Solutions for Heavy Industry Equipment"
+    },
+    "ctaButton": {
+      "tr": "HİZMETLERİMİZİ KEŞFEDİN",
+      "en": "EXPLORE OUR SERVICES"
+    },
+    "videoUrl": "https://cdn.pixabay.com/video/2020/06/08/41477-429661230_large.mp4"
+  },
+  "parallax": {
+    "text1": {
+      "tr": "TUNGSTEN KARBÜR • PTA KAPLAMA • HVOF • ARC SPRAY • HARDFACING",
+      "en": "TUNGSTEN CARBIDE • PTA COATING • HVOF • ARC SPRAY • HARDFACING"
+    },
+    "text2": {
+      "tr": "PDC BİT • AŞINMA DAYANIMI • ROBOTIK KAPLAMA • ÖZEL İMALAT",
+      "en": "PDC BIT • WEAR RESISTANCE • ROBOTIC COATING • CUSTOM FABRICATION"
+    }
+  },
+  "capabilities": [
+    {
+      "title": {
+        "tr": "Kaplama Kapasitesi",
+        "en": "Coating Capacity"
+      },
+      "features": {
+        "tr": [
+          "7 metre uzunluk",
+          "4 metre çapa kadar parçalar",
+          "PTA, HVOF, ARC Spray sistemleri",
+          "Robotik kaynak sistemleri"
+        ],
+        "en": [
+          "7 meter length",
+          "Parts up to 4 meter diameter",
+          "PTA, HVOF, ARC Spray systems",
+          "Robotic welding systems"
+        ]
+      }
+    },
+    {
+      "title": {
+        "tr": "İşleme Kapasitesi",
+        "en": "Machining Capacity"
+      },
+      "features": {
+        "tr": [
+          "1250 mm çap işleme",
+          "4 metre boy torna",
+          "Hassas taşlama",
+          "Tolerans düzeltme"
+        ],
+        "en": [
+          "1250 mm diameter machining",
+          "4 meter length lathe",
+          "Precision grinding",
+          "Tolerance correction"
+        ]
+      }
+    },
+    {
+      "title": {
+        "tr": "Robotik Sistemler",
+        "en": "Robotic Systems"
+      },
+      "features": {
+        "tr": [
+          "Robotik PTA kaynak",
+          "Robotik HVOF / HVAF",
+          "Robotik MIG/MAG hardfacing",
+          "Otomatik kaplama"
+        ],
+        "en": [
+          "Robotic PTA welding",
+          "Robotic HVOF / HVAF",
+          "Robotic MIG/MAG hardfacing",
+          "Automatic coating"
+        ]
+      }
+    }
+  ]
+}
