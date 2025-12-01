@@ -1,0 +1,13 @@
+{
+  "favicon": "/favicon.jpg",
+  "seo": {
+    "tr": {
+      "title": "UMEK - Yüzey Kaplama ve Kaynak Çözümleri",
+      "description": "Endüstriyel ekipmanlar için profesyonel yüzey kaplama, kaynak ve hassas taşlama hizmetleri"
+    },
+    "en": {
+      "title": "UMEK - Surface Coating and Welding Solutions",
+      "description": "Professional surface coating, welding and precision grinding services for industrial equipment"
+    }
+  }
+}
