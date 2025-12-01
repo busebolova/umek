@@ -1,0 +1,44 @@
+{
+  "tr": {
+    "title": "Hakkımızda",
+    "mission": "Misyonumuz",
+    "missionText": "Endüstriyel ekipmanların ömrünü uzatmak ve performansını artırmak",
+    "vision": "Vizyonumuz",
+    "visionText": "Yüzey kaplama teknolojilerinde küresel lider olmak",
+    "values": [
+      {
+        "title": "Kalite",
+        "description": "En yüksek standartlarda hizmet"
+      },
+      {
+        "title": "İnovasyon",
+        "description": "Sürekli teknoloji geliştirme"
+      },
+      {
+        "title": "Güvenilirlik",
+        "description": "Müşteri memnuniyeti odaklı"
+      }
+    ]
+  },
+  "en": {
+    "title": "About Us",
+    "mission": "Our Mission",
+    "missionText": "To extend the life and improve the performance of industrial equipment",
+    "vision": "Our Vision",
+    "visionText": "To be a global leader in surface coating technologies",
+    "values": [
+      {
+        "title": "Quality",
+        "description": "Service at the highest standards"
+      },
+      {
+        "title": "Innovation",
+        "description": "Continuous technology development"
+      },
+      {
+        "title": "Reliability",
+        "description": "Customer satisfaction focused"
+      }
+    ]
+  }
+}
