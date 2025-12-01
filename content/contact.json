@@ -1,0 +1,20 @@
+{
+  "tr": {
+    "phone": "0 236 233 59 76",
+    "email": "info@umek.com.tr",
+    "whatsapp": "+905555555555",
+    "address": "Organize Sanayi Bölgesi, Manisa, Türkiye",
+    "linkedin": "https://linkedin.com/company/umek",
+    "instagram": "https://instagram.com/umek",
+    "facebook": "https://facebook.com/umek"
+  },
+  "en": {
+    "phone": "+90 236 233 59 76",
+    "email": "info@umek.com.tr",
+    "whatsapp": "+905555555555",
+    "address": "Organized Industrial Zone, Manisa, Turkey",
+    "linkedin": "https://linkedin.com/company/umek",
+    "instagram": "https://instagram.com/umek",
+    "facebook": "https://facebook.com/umek"
+  }
+}
