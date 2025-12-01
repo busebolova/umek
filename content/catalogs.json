@@ -1,0 +1,24 @@
+[
+  {
+    "title": {
+      "tr": "Enerji Santralleri",
+      "en": "Power Plants"
+    },
+    "description": {
+      "tr": "Petrol, gaz ve enerji sektörü",
+      "en": "Oil, gas and energy sector"
+    },
+    "url": "https://drive.google.com/file/d/example1/view"
+  },
+  {
+    "title": {
+      "tr": "Madencilik Ekipmanları",
+      "en": "Mining Equipment"
+    },
+    "description": {
+      "tr": "Madencilik sektörü çözümleri",
+      "en": "Mining sector solutions"
+    },
+    "url": "https://drive.google.com/file/d/example2/view"
+  }
+]
