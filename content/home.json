@@ -1,93 +1,60 @@
 {
   "hero": {
-    "title": {
-      "tr": "ENDÜSTRİYEL DAYANIKLILIK 2",
-      "en": "INDUSTRIAL DURABILITY"
+    "tr": {
+      "title": "ENDÜSTRİYEL DAYANIKLILIK",
+      "subtitle": "Ağır Sanayi Ekipmanları için Yüzey Kaplama ve Kaynak Çözümleri",
+      "ctaText": "Keşfet",
+      "videoUrl": "https://cdn.pixabay.com/video/2020/06/08/41477-429661230_large.mp4"
     },
-    "subtitle": {
-      "tr": "Ağır Sanayi Ekipmanları için Yüzey Kaplama ve Kaynak Çözümleri",
-      "en": "Surface Coating and Welding Solutions for Heavy Industry Equipment"
-    },
-    "description": {
-      "tr": "Ağır Sanayi Ekipmanları için Yüzey Kaplama ve Kaynak Çözümleri",
-      "en": "Surface Coating and Welding Solutions for Heavy Industry Equipment"
-    },
-    "ctaButton": {
-      "tr": "HİZMETLERİMİZİ KEŞFEDİN",
-      "en": "EXPLORE OUR SERVICES"
-    },
-    "videoUrl": "https://cdn.pixabay.com/video/2020/06/08/41477-429661230_large.mp4"
-  },
-  "parallax": {
-    "text1": {
-      "tr": "TUNGSTEN KARBÜR • PTA KAPLAMA • HVOF • ARC SPRAY • HARDFACING",
-      "en": "TUNGSTEN CARBIDE • PTA COATING • HVOF • ARC SPRAY • HARDFACING"
-    },
-    "text2": {
-      "tr": "PDC BİT • AŞINMA DAYANIMI • ROBOTIK KAPLAMA • ÖZEL İMALAT",
-      "en": "PDC BIT • WEAR RESISTANCE • ROBOTIC COATING • CUSTOM FABRICATION"
+    "en": {
+      "title": "INDUSTRIAL DURABILITY",
+      "subtitle": "Surface Coating and Welding Solutions for Heavy Industry Equipment",
+      "ctaText": "Discover",
+      "videoUrl": "https://cdn.pixabay.com/video/2020/06/08/41477-429661230_large.mp4"
     }
   },
-  "capabilities": [
-    {
-      "title": {
-        "tr": "Kaplama Kapasitesi",
-        "en": "Coating Capacity"
+  "parallaxText": {
+    "tr": [
+      "KAYNAK KAPLAMA",
+      "TUNGSTEN KARBÜR",
+      "PDC BİT",
+      "TERMAL SPREY"
+    ],
+    "en": [
+      "WELDING COATING",
+      "TUNGSTEN CARBIDE",
+      "PDC BIT",
+      "THERMAL SPRAY"
+    ]
+  },
+  "capabilities": {
+    "tr": [
+      {
+        "title": "Yüzey Kaplama",
+        "description": "Endüstriyel ekipmanlar için dayanıklı yüzey kaplama çözümleri"
       },
-      "features": {
-        "tr": [
-          "7 metre uzunluk",
-          "4 metre çapa kadar parçalar",
-          "PTA, HVOF, ARC Spray sistemleri",
-          "Robotik kaynak sistemleri"
-        ],
-        "en": [
-          "7 meter length",
-          "Parts up to 4 meter diameter",
-          "PTA, HVOF, ARC Spray systems",
-          "Robotic welding systems"
-        ]
-      }
-    },
-    {
-      "title": {
-        "tr": "İşleme Kapasitesi",
-        "en": "Machining Capacity"
+      {
+        "title": "Kaynak Teknolojisi",
+        "description": "İleri kaynak teknikleri ile güçlü bağlantılar"
       },
-      "features": {
-        "tr": [
-          "1250 mm çap işleme",
-          "4 metre boy torna",
-          "Hassas taşlama",
-          "Tolerans düzeltme"
-        ],
-        "en": [
-          "1250 mm diameter machining",
-          "4 meter length lathe",
-          "Precision grinding",
-          "Tolerance correction"
-        ]
+      {
+        "title": "Hassas Taşlama",
+        "description": "Mikron hassasiyetinde yüzey işleme hizmetleri"
       }
-    },
-    {
-      "title": {
-        "tr": "Robotik Sistemler",
-        "en": "Robotic Systems"
+    ],
+    "en": [
+      {
+        "title": "Surface Coating",
+        "description": "Durable surface coating solutions for industrial equipment"
       },
-      "features": {
-        "tr": [
-          "Robotik PTA kaynak",
-          "Robotik HVOF / HVAF",
-          "Robotik MIG/MAG hardfacing",
-          "Otomatik kaplama"
-        ],
-        "en": [
-          "Robotic PTA welding",
-          "Robotic HVOF / HVAF",
-          "Robotic MIG/MAG hardfacing",
-          "Automatic coating"
-        ]
+      {
+        "title": "Welding Technology",
+        "description": "Strong connections with advanced welding techniques"
+      },
+      {
+        "title": "Precision Grinding",
+        "description": "Micron-precision surface treatment services"
       }
-    }
-  ]
+    ]
+  }
 }
