@@ -1,0 +1,62 @@
+{
+  "tr": [
+    {
+      "id": "petrol-gaz",
+      "name": "Petrol • Doğalgaz • Jeotermal"
+    },
+    {
+      "id": "madencilik",
+      "name": "Madencilik"
+    },
+    {
+      "id": "hidroelektrik",
+      "name": "Hidroelektrik Santralleri"
+    },
+    {
+      "id": "geri-donusum",
+      "name": "Geri Dönüşüm"
+    },
+    {
+      "id": "demir-celik",
+      "name": "Demir-Çelik"
+    },
+    {
+      "id": "cimento",
+      "name": "Çimento"
+    },
+    {
+      "id": "tarim",
+      "name": "Tarım Makinaları"
+    }
+  ],
+  "en": [
+    {
+      "id": "oil-gas",
+      "name": "Oil • Natural Gas • Geothermal"
+    },
+    {
+      "id": "mining",
+      "name": "Mining"
+    },
+    {
+      "id": "hydroelectric",
+      "name": "Hydroelectric Power Plants"
+    },
+    {
+      "id": "recycling",
+      "name": "Recycling"
+    },
+    {
+      "id": "iron-steel",
+      "name": "Iron-Steel"
+    },
+    {
+      "id": "cement",
+      "name": "Cement"
+    },
+    {
+      "id": "agriculture",
+      "name": "Agricultural Machinery"
+    }
+  ]
+}
