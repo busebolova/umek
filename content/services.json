@@ -1,0 +1,90 @@
+{
+  "tr": [
+    {
+      "id": "kaynak-kaplama",
+      "title": "Kaynak Kaplama (Hardfacing)",
+      "description": "Ağır darbeli ve yüksek aşınmalı yüzeylerde uzun ömür sağlayan dolgu ve kaplama çözümleri.",
+      "details": "Ağır darbeli ve yüksek aşınmalı yüzeylerde uzun ömür sağlayan dolgu ve kaplama çözümleri uyguluyoruz. MIG/MAG ve PTA süreçleri robotik kontrolle yapılır.",
+      "icon": "Hammer"
+    },
+    {
+      "id": "tungsten-karbur",
+      "title": "Tungsten Karbür / Elmas Insert Kaplamalar",
+      "description": "Aşınma direnci en yüksek kaplama türleri, sondaj ve ağır sanayi uygulamalarında.",
+      "details": "Aşınma direnci en yüksek kaplama türlerinden olan WC ve elmas insert kaplamalar, özellikle sondaj ve ağır sanayi uygulamalarında tercih edilir.",
+      "icon": "Gem"
+    },
+    {
+      "id": "pdc-bit",
+      "title": "PDC Bit Yenileme",
+      "description": "Sondaj sektöründe kullanılan PDC bitlerin performansını geri kazandırma.",
+      "details": "Sondaj sektöründe kullanılan PDC bitlerin performansını geri kazandıran özel kaplama ve onarım sürecidir. Profil doğruluğu ve kesme verimi artırılır.",
+      "icon": "RefreshCw"
+    },
+    {
+      "id": "termal-sprey",
+      "title": "Termal Sprey Kaplama (HVOF / HVAF / ARC Spray)",
+      "description": "Aşınma, korozyon, erozyon ve yüksek sıcaklık ortamlarına karşı uzun ömürlü kaplamalar.",
+      "details": "Aşınma, korozyon, erozyon ve yüksek sıcaklık ortamlarına karşı en uzun ömürlü kaplamaları sunan yüksek teknoloji yöntemlerdir.",
+      "icon": "Flame"
+    },
+    {
+      "id": "hassas-taslama",
+      "title": "Hassas Taşlama",
+      "description": "Kaplama sonrası tolerans hassasiyetini sağlayan taşlama işlemleri.",
+      "details": "Kaplama sonrası tolerans hassasiyetini sağlayan taşlama işlemlerimiz büyük çap ve uzunlukta parçalara uygundur.",
+      "icon": "Scissors"
+    },
+    {
+      "id": "ozel-parca",
+      "title": "Aşınmaya Dayanıklı Özel Parça İmalatı",
+      "description": "Tersine mühendislik ve özel üretim projeleriyle yüksek alaşımlı parça üretimi.",
+      "details": "Tersine mühendislik ve özel üretim projeleriyle ağır şartlar için tasarlanmış yüksek alaşımlı parçalar üretiyoruz.",
+      "icon": "Cog"
+    }
+  ],
+  "en": [
+    {
+      "id": "welding-coating",
+      "title": "Welding Coating (Hardfacing)",
+      "description": "Filling and coating solutions providing long life on heavily impacted and highly worn surfaces.",
+      "details": "We apply filling and coating solutions that provide long life on heavily impacted and highly worn surfaces. MIG/MAG and PTA processes are performed with robotic control.",
+      "icon": "Hammer"
+    },
+    {
+      "id": "tungsten-carbide",
+      "title": "Tungsten Carbide / Diamond Insert Coatings",
+      "description": "Highest wear resistance coating types for drilling and heavy industry applications.",
+      "details": "WC and diamond insert coatings, which are among the highest wear-resistant coating types, are preferred especially in drilling and heavy industry applications.",
+      "icon": "Gem"
+    },
+    {
+      "id": "pdc-bit",
+      "title": "PDC Bit Refurbishment",
+      "description": "Restoring the performance of PDC bits used in the drilling sector.",
+      "details": "Special coating and repair process that restores the performance of PDC bits used in the drilling sector. Profile accuracy and cutting efficiency are improved.",
+      "icon": "RefreshCw"
+    },
+    {
+      "id": "thermal-spray",
+      "title": "Thermal Spray Coating (HVOF / HVAF / ARC Spray)",
+      "description": "Long-lasting coatings against wear, corrosion, erosion and high temperature environments.",
+      "details": "High technology methods that offer the longest lasting coatings against wear, corrosion, erosion and high temperature environments.",
+      "icon": "Flame"
+    },
+    {
+      "id": "precision-grinding",
+      "title": "Precision Grinding",
+      "description": "Grinding operations providing tolerance precision after coating.",
+      "details": "Our grinding operations that provide tolerance precision after coating are suitable for parts with large diameters and lengths.",
+      "icon": "Scissors"
+    },
+    {
+      "id": "custom-parts",
+      "title": "Wear-Resistant Custom Part Manufacturing",
+      "description": "High-alloy part production with reverse engineering and custom production projects.",
+      "details": "We produce high-alloy parts designed for harsh conditions with reverse engineering and custom production projects.",
+      "icon": "Cog"
+    }
+  ]
+}
