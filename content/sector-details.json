@@ -1,58 +1,36 @@
 {
   "petrol-gaz": {
     "tr": {
-      "title": "Petrol • Doğalgaz • Jeotermal",
-      "description": "Petrol, doğalgaz ve jeotermal enerji sektörlerinde kullanılan ekipmanlar için özel yüzey kaplama çözümleri sunuyoruz.",
-      "intro": "Enerji sektörü ekipmanları son derece zorlu koşullarda çalışır. Yüksek basınç, aşındırıcı ortamlar ve sürekli temas, parçaların hızla aşınmasına neden olur. UMEK'in ileri kaplama teknolojileri ile ekipmanlarınızın ömrünü önemli ölçüde uzatabilirsiniz.",
+      "title": "Petrol Dogalgaz Jeotermal",
+      "description": "Petrol, dogalgaz ve jeotermal enerji sektorlerinde kullanilan ekipmanlar icin ozel yuzey kaplama cozumleri sunuyoruz.",
+      "intro": "Enerji sektoru ekipmanlari son derece zorlu kosullarda calisir. Yuksek basinc, asindirici ortamlar ve surekli temas, parcalarin hizla asinmasina neden olur.",
       "technicalSpecs": [
         {
           "title": "Sondaj Bitleri",
-          "description": "Tungsten karbür ve diamond coating ile aşırı aşınma direnci"
+          "description": "Tungsten karbur ve diamond coating ile asiri asinma direnci"
         },
         {
-          "title": "Pompa Parçaları",
-          "description": "Kavitasyon ve erozyon direnci yüksek HVOF kaplamalar"
-        },
-        {
-          "title": "Valf Sistemleri",
-          "description": "Korozyon direnci için özel alaşım kaplamalar"
+          "title": "Pompa Parcalari",
+          "description": "Kavitasyon ve erozyon direnci yuksek HVOF kaplamalar"
         }
       ],
       "coatingTypes": [
         {
-          "name": "Tungsten Karbür",
-          "description": "Extreme aşınma direnci sağlar",
+          "name": "Tungsten Karbur",
+          "description": "Extreme asinma direnci saglar",
           "hardness": "1400-2200 HV"
-        },
-        {
-          "name": "HVOF Spray",
-          "description": "Yüksek hızlı oksijen yakıt spreyi",
-          "thickness": "0.1-0.5 mm"
-        },
-        {
-          "name": "Chrome Carbide",
-          "description": "Korozyon ve aşınma kombinasyonu",
-          "temperature": "800 derece C'ye kadar"
         }
       ],
       "materials": [
-        "WC-Co (Tungsten Carbide Cobalt)",
-        "Cr3C2-NiCr (Chrome Carbide)",
-        "Stellite Alaşımları",
-        "Colmonoy Alaşımları"
+        "WC-Co Tungsten Carbide Cobalt",
+        "Stellite Alasimlari"
       ],
-      "pdfCatalogs": [
-        {
-          "title": "Petrol ve Gaz Ekipmanları Katalogu",
-          "url": "https://drive.google.com/file/d/EXAMPLE_ID/view",
-          "size": "2.8 MB"
-        }
-      ]
+      "pdfCatalogs": []
     },
     "en": {
-      "title": "Oil • Natural Gas • Geothermal",
+      "title": "Oil Natural Gas Geothermal",
       "description": "We offer special surface coating solutions for equipment used in oil, natural gas and geothermal energy sectors.",
-      "intro": "Energy sector equipment operates under extremely harsh conditions. High pressure, abrasive environments and continuous contact cause parts to wear out quickly. With UMEK's advanced coating technologies, you can significantly extend the life of your equipment.",
+      "intro": "Energy sector equipment operates under extremely harsh conditions. High pressure, abrasive environments and continuous contact cause parts to wear out quickly.",
       "technicalSpecs": [
         {
           "title": "Drill Bits",
@@ -61,10 +39,6 @@
         {
           "title": "Pump Parts",
           "description": "HVOF coatings with high cavitation and erosion resistance"
-        },
-        {
-          "title": "Valve Systems",
-          "description": "Special alloy coatings for corrosion resistance"
         }
       ],
       "coatingTypes": [
@@ -72,94 +46,47 @@
           "name": "Tungsten Carbide",
           "description": "Provides extreme wear resistance",
           "hardness": "1400-2200 HV"
-        },
-        {
-          "name": "HVOF Spray",
-          "description": "High velocity oxygen fuel spray",
-          "thickness": "0.1-0.5 mm"
-        },
-        {
-          "name": "Chrome Carbide",
-          "description": "Corrosion and wear combination",
-          "temperature": "Up to 800 degrees C"
         }
       ],
       "materials": [
-        "WC-Co (Tungsten Carbide Cobalt)",
-        "Cr3C2-NiCr (Chrome Carbide)",
-        "Stellite Alloys",
-        "Colmonoy Alloys"
+        "WC-Co Tungsten Carbide Cobalt",
+        "Stellite Alloys"
       ],
-      "pdfCatalogs": [
-        {
-          "title": "Oil and Gas Equipment Catalog",
-          "url": "https://drive.google.com/file/d/EXAMPLE_ID/view",
-          "size": "2.8 MB"
-        }
-      ]
+      "pdfCatalogs": []
     }
   },
   "madencilik": {
     "tr": {
       "title": "Madencilik",
-      "description": "Madencilik ekipmanlarının zorlu çalışma koşullarına dayanması için tungsten karbür ve hardfacing kaplamalar uyguluyoruz.",
-      "intro": "Madencilik ekipmanları, taş, mineral ve toprakla sürekli temas halindedir. Bu da hızlı aşınmaya ve üretim kayıplarına yol açar. Özel kaplama çözümlerimizle ekipman ömrünü 3-5 kat artırabilirsiniz.",
+      "description": "Madencilik ekipmanlarinin zorlu calisma kosullarina dayanmasi icin tungsten karbur ve hardfacing kaplamalar uyguluyoruz.",
+      "intro": "Madencilik ekipmanlari tas mineral ve toprakla surekli temas halindedir.",
       "technicalSpecs": [
         {
-          "title": "Kırıcı Çeneler",
-          "description": "Hardfacing ile darbe ve aşınma direnci"
-        },
-        {
-          "title": "Konveyör Rulolar",
-          "description": "Chrome karbür kaplama ile uzun ömür"
-        },
-        {
-          "title": "Kazıcı Uçlar",
-          "description": "Tungsten karbür ile maksimum dayanıklılık"
+          "title": "Kirici Ceneler",
+          "description": "Hardfacing ile darbe ve asinma direnci"
         }
       ],
       "coatingTypes": [
         {
           "name": "Hardfacing",
-          "description": "Kaynak bazlı sert yüzey oluşturma",
+          "description": "Kaynak bazli sert yuzey olusturma",
           "hardness": "45-65 HRC"
-        },
-        {
-          "name": "Tungsten Karbür",
-          "description": "En yüksek aşınma direnci",
-          "hardness": "1800-2400 HV"
         }
       ],
       "materials": [
-        "Hardox Alaşımları",
-        "WC-Co Kaplama",
-        "Chrome Carbide",
-        "Manganese Steel Overlay"
+        "Hardox Alasimlari",
+        "WC-Co Kaplama"
       ],
-      "pdfCatalogs": [
-        {
-          "title": "Madencilik Ekipmanları Katalogu",
-          "url": "https://drive.google.com/file/d/EXAMPLE_ID/view",
-          "size": "3.2 MB"
-        }
-      ]
+      "pdfCatalogs": []
     },
     "en": {
       "title": "Mining",
       "description": "We apply tungsten carbide and hardfacing coatings for mining equipment to withstand harsh working conditions.",
-      "intro": "Mining equipment is in constant contact with rock, minerals and soil. This leads to rapid wear and production losses. With our special coating solutions, you can increase equipment life 3-5 times.",
+      "intro": "Mining equipment is in constant contact with rock minerals and soil.",
       "technicalSpecs": [
         {
           "title": "Crusher Jaws",
           "description": "Impact and wear resistance with hardfacing"
-        },
-        {
-          "title": "Conveyor Rollers",
-          "description": "Long life with chrome carbide coating"
-        },
-        {
-          "title": "Excavator Tips",
-          "description": "Maximum durability with tungsten carbide"
         }
       ],
       "coatingTypes": [
@@ -167,206 +94,13 @@
           "name": "Hardfacing",
           "description": "Weld-based hard surface creation",
           "hardness": "45-65 HRC"
-        },
-        {
-          "name": "Tungsten Carbide",
-          "description": "Highest wear resistance",
-          "hardness": "1800-2400 HV"
         }
       ],
       "materials": [
         "Hardox Alloys",
-        "WC-Co Coating",
-        "Chrome Carbide",
-        "Manganese Steel Overlay"
+        "WC-Co Coating"
       ],
-      "pdfCatalogs": [
-        {
-          "title": "Mining Equipment Catalog",
-          "url": "https://drive.google.com/file/d/EXAMPLE_ID/view",
-          "size": "3.2 MB"
-        }
-      ]
-    }
-  },
-  "hidroelektrik": {
-    "tr": {
-      "title": "Hidroelektrik Santralleri",
-      "description": "Türbin kanatları, pompa impellerleri ve valf gövdeleri için kavitasyon ve erozyon direnci yüksek kaplamalar sunuyoruz.",
-      "intro": "Hidroelektrik santrallerinde su akışı ile sürekli temas eden parçalar kavitasyon ve erozyon nedeniyle hızla aşınır. Özel kaplamalarımız bakım sürelerini azaltır ve verimlilik artırır.",
-      "technicalSpecs": [
-        {
-          "title": "Türbin Kanatları",
-          "description": "Kavitasyon direnci yüksek özel kaplamalar"
-        },
-        {
-          "title": "Pompa İmpellerleri",
-          "description": "Erozyon direnci için HVOF kaplama"
-        },
-        {
-          "title": "Valf Gövdeleri",
-          "description": "Korozyon ve aşınma koruması"
-        }
-      ],
-      "coatingTypes": [
-        {
-          "name": "HVOF Coating",
-          "description": "Kavitasyon direnci sağlar",
-          "thickness": "0.2-0.6 mm"
-        },
-        {
-          "name": "Ceramic Coating",
-          "description": "Erozyon koruması",
-          "hardness": "1200-1800 HV"
-        }
-      ],
-      "materials": [
-        "WC-CoCr Alaşımları",
-        "Chrome Oxide",
-        "Alumina-Titania",
-        "Stellite Coating"
-      ],
-      "pdfCatalogs": [
-        {
-          "title": "Hidroelektrik Santral Çözümleri",
-          "url": "https://drive.google.com/file/d/EXAMPLE_ID/view",
-          "size": "2.1 MB"
-        }
-      ]
-    },
-    "en": {
-      "title": "Hydroelectric Power Plants",
-      "description": "We offer coatings with high cavitation and erosion resistance for turbine blades, pump impellers and valve bodies.",
-      "intro": "Parts in constant contact with water flow in hydroelectric power plants wear out quickly due to cavitation and erosion. Our special coatings reduce maintenance times and increase efficiency.",
-      "technicalSpecs": [
-        {
-          "title": "Turbine Blades",
-          "description": "Special coatings with high cavitation resistance"
-        },
-        {
-          "title": "Pump Impellers",
-          "description": "HVOF coating for erosion resistance"
-        },
-        {
-          "title": "Valve Bodies",
-          "description": "Corrosion and wear protection"
-        }
-      ],
-      "coatingTypes": [
-        {
-          "name": "HVOF Coating",
-          "description": "Provides cavitation resistance",
-          "thickness": "0.2-0.6 mm"
-        },
-        {
-          "name": "Ceramic Coating",
-          "description": "Erosion protection",
-          "hardness": "1200-1800 HV"
-        }
-      ],
-      "materials": [
-        "WC-CoCr Alloys",
-        "Chrome Oxide",
-        "Alumina-Titania",
-        "Stellite Coating"
-      ],
-      "pdfCatalogs": [
-        {
-          "title": "Hydroelectric Power Plant Solutions",
-          "url": "https://drive.google.com/file/d/EXAMPLE_ID/view",
-          "size": "2.1 MB"
-        }
-      ]
-    }
-  },
-  "geri-donusum": {
-    "tr": {
-      "title": "Geri Dönüşüm",
-      "description": "Geri dönüşüm tesislerinde kullanılan kırıcı, öğütücü ve taşıma ekipmanları için aşınma ve darbe direnci sağlayan kaplama sistemleri uyguluyoruz.",
-      "intro": "Geri dönüşüm tesislerinde ekipmanlar metal, plastik ve cam gibi sert malzemelerle temas eder. Bu ekipmanların uzun ömürlü olması için özel kaplama çözümleri gereklidir.",
-      "technicalSpecs": [
-        {
-          "title": "Kırıcı Sistemler",
-          "description": "Yüksek darbe direnci"
-        },
-        {
-          "title": "Öğütücü Bıçaklar",
-          "description": "Aşınma direnci maksimum"
-        },
-        {
-          "title": "Taşıma Bantları",
-          "description": "Uzun ömür garantisi"
-        }
-      ],
-      "coatingTypes": [
-        {
-          "name": "Hardfacing",
-          "description": "Darbe dayanımı",
-          "hardness": "50-62 HRC"
-        },
-        {
-          "name": "Chrome Carbide",
-          "description": "Aşınma koruması",
-          "hardness": "1600-2000 HV"
-        }
-      ],
-      "materials": [
-        "Hardox Overlay",
-        "Chrome Carbide Coating",
-        "Tungsten Carbide",
-        "Manganese Steel"
-      ],
-      "pdfCatalogs": [
-        {
-          "title": "Geri Dönüşüm Ekipmanları",
-          "url": "https://drive.google.com/file/d/EXAMPLE_ID/view",
-          "size": "1.9 MB"
-        }
-      ]
-    },
-    "en": {
-      "title": "Recycling",
-      "description": "We apply coating systems that provide wear and impact resistance for crushing, grinding and conveying equipment used in recycling facilities.",
-      "intro": "Equipment in recycling facilities comes into contact with hard materials such as metal, plastic and glass. Special coating solutions are required for these equipment to be long-lasting.",
-      "technicalSpecs": [
-        {
-          "title": "Crusher Systems",
-          "description": "High impact resistance"
-        },
-        {
-          "title": "Grinder Blades",
-          "description": "Maximum wear resistance"
-        },
-        {
-          "title": "Conveyor Belts",
-          "description": "Long life guarantee"
-        }
-      ],
-      "coatingTypes": [
-        {
-          "name": "Hardfacing",
-          "description": "Impact resistance",
-          "hardness": "50-62 HRC"
-        },
-        {
-          "name": "Chrome Carbide",
-          "description": "Wear protection",
-          "hardness": "1600-2000 HV"
-        }
-      ],
-      "materials": [
-        "Hardox Overlay",
-        "Chrome Carbide Coating",
-        "Tungsten Carbide",
-        "Manganese Steel"
-      ],
-      "pdfCatalogs": [
-        {
-          "title": "Recycling Equipment",
-          "url": "https://drive.google.com/file/d/EXAMPLE_ID/view",
-          "size": "1.9 MB"
-        }
-      ]
+      "pdfCatalogs": []
     }
   }
 }
