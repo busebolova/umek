@@ -1,35 +1,48 @@
-[
-  {
-    "title": {
-      "tr": "Enerji Santralleri Katalogu",
-      "en": "Power Plants Catalog"
+{
+  "tr": [
+    {
+      "id": "enerji-santralleri",
+      "title": "Enerji Santralleri Katalogu",
+      "description": "Petrol, doğalgaz ve enerji sektörü ekipmanları için kaplama çözümleri. Türbin kanatları, pompa impellerleri ve valf sistemleri için özel uygulamalar.",
+      "url": "https://drive.google.com/file/d/EXAMPLE_ID_1/view",
+      "fileSize": "2.5 MB"
     },
-    "description": {
-      "tr": "Petrol, doğalgaz ve enerji sektörü ekipmanları için kaplama çözümleri",
-      "en": "Coating solutions for oil, natural gas and energy sector equipment"
+    {
+      "id": "madencilik-ekipmanlari",
+      "title": "Madencilik Ekipmanları Katalogu",
+      "description": "Madencilik sektörü aşınma direnci çözümleri. Kırıcı çeneler, konveyör rulolar ve kazıcı uçlar için tungsten karbür ve hardfacing kaplamalar.",
+      "url": "https://drive.google.com/file/d/EXAMPLE_ID_2/view",
+      "fileSize": "3.1 MB"
     },
-    "url": "https://drive.google.com/file/d/example1/view"
-  },
-  {
-    "title": {
-      "tr": "Madencilik Ekipmanları Katalogu",
-      "en": "Mining Equipment Catalog"
+    {
+      "id": "hidroelektrik-santral",
+      "title": "Hidroelektrik Santral Çözümleri",
+      "description": "Türbin ve pompa ekipmanları için kaplama sistemleri. Kavitasyon ve erozyon direnci yüksek özel kaplamalar.",
+      "url": "https://drive.google.com/file/d/EXAMPLE_ID_3/view",
+      "fileSize": "1.8 MB"
+    }
+  ],
+  "en": [
+    {
+      "id": "power-plants",
+      "title": "Power Plants Catalog",
+      "description": "Coating solutions for oil, natural gas and energy sector equipment. Special applications for turbine blades, pump impellers and valve systems.",
+      "url": "https://drive.google.com/file/d/EXAMPLE_ID_1/view",
+      "fileSize": "2.5 MB"
     },
-    "description": {
-      "tr": "Madencilik sektörü aşınma direnci çözümleri",
-      "en": "Mining sector wear resistance solutions"
+    {
+      "id": "mining-equipment",
+      "title": "Mining Equipment Catalog",
+      "description": "Mining sector wear resistance solutions. Tungsten carbide and hardfacing coatings for crusher jaws, conveyor rollers and excavator tips.",
+      "url": "https://drive.google.com/file/d/EXAMPLE_ID_2/view",
+      "fileSize": "3.1 MB"
     },
-    "url": "https://drive.google.com/file/d/example2/view"
-  },
-  {
-    "title": {
-      "tr": "Hidroelektrik Santral Çözümleri",
-      "en": "Hydroelectric Power Plant Solutions"
-    },
-    "description": {
-      "tr": "Türbin ve pompa ekipmanları için kaplama sistemleri",
-      "en": "Coating systems for turbine and pump equipment"
-    },
-    "url": "https://drive.google.com/file/d/example3/view"
-  }
-]
+    {
+      "id": "hydroelectric-plant",
+      "title": "Hydroelectric Power Plant Solutions",
+      "description": "Coating systems for turbine and pump equipment. Special coatings with high cavitation and erosion resistance.",
+      "url": "https://drive.google.com/file/d/EXAMPLE_ID_3/view",
+      "fileSize": "1.8 MB"
+    }
+  ]
+}
