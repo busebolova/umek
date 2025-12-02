@@ -2,61 +2,53 @@
   "tr": [
     {
       "id": "petrol-gaz",
-      "name": "Petrol • Doğalgaz • Jeotermal"
+      "title": "Petrol • Doğalgaz • Jeotermal",
+      "description": "UMEK, petrol, doğalgaz ve jeotermal enerji sektörlerinde kullanılan ekipmanlar için özel yüzey kaplama çözümleri sunar. Sondaj bitleri, pompa parçaları ve valf sistemleri için aşınma direnci yüksek kaplamalar uyguluyoruz.",
+      "url": "/projects/petrol-gaz"
     },
     {
       "id": "madencilik",
-      "name": "Madencilik"
+      "title": "Madencilik",
+      "description": "Madencilik ekipmanlarının zorlu çalışma koşullarına dayanması için tungsten karbür ve hardfacing kaplamalar uyguluyoruz. Kırıcı çeneler, konveyör rulolar ve kazıcı uçlar için özel çözümlerimiz mevcuttur.",
+      "url": "/projects/madencilik"
     },
     {
       "id": "hidroelektrik",
-      "name": "Hidroelektrik Santralleri"
+      "title": "Hidroelektrik Santralleri",
+      "description": "Türbin kanatları, pompa impellerleri ve valf gövdeleri için kavitasyon ve erozyon direnci yüksek kaplamalar sunuyoruz. Enerji santrallerinin bakım sürelerini azaltıyoruz.",
+      "url": "/projects/hidroelektrik"
     },
     {
       "id": "geri-donusum",
-      "name": "Geri Dönüşüm"
-    },
-    {
-      "id": "demir-celik",
-      "name": "Demir-Çelik"
-    },
-    {
-      "id": "cimento",
-      "name": "Çimento"
-    },
-    {
-      "id": "tarim",
-      "name": "Tarım Makinaları"
+      "title": "Geri Dönüşüm",
+      "description": "Geri dönüşüm tesislerinde kullanılan kırıcı, öğütücü ve taşıma ekipmanları için aşınma ve darbe direnci sağlayan kaplama sistemleri uyguluyoruz.",
+      "url": "/projects/geri-donusum"
     }
   ],
   "en": [
     {
       "id": "oil-gas",
-      "name": "Oil • Natural Gas • Geothermal"
+      "title": "Oil • Natural Gas • Geothermal",
+      "description": "UMEK provides special surface coating solutions for equipment used in oil, natural gas and geothermal energy sectors. We apply high wear-resistant coatings for drill bits, pump parts and valve systems.",
+      "url": "/en/projects/oil-gas"
     },
     {
       "id": "mining",
-      "name": "Mining"
+      "title": "Mining",
+      "description": "We apply tungsten carbide and hardfacing coatings for mining equipment to withstand harsh working conditions. We have special solutions for crusher jaws, conveyor rollers and excavator tips.",
+      "url": "/en/projects/mining"
     },
     {
       "id": "hydroelectric",
-      "name": "Hydroelectric Power Plants"
+      "title": "Hydroelectric Power Plants",
+      "description": "We offer coatings with high cavitation and erosion resistance for turbine blades, pump impellers and valve bodies. We reduce maintenance times of power plants.",
+      "url": "/en/projects/hydroelectric"
     },
     {
       "id": "recycling",
-      "name": "Recycling"
-    },
-    {
-      "id": "iron-steel",
-      "name": "Iron-Steel"
-    },
-    {
-      "id": "cement",
-      "name": "Cement"
-    },
-    {
-      "id": "agriculture",
-      "name": "Agricultural Machinery"
+      "title": "Recycling",
+      "description": "We apply coating systems that provide wear and impact resistance for crushing, grinding and conveying equipment used in recycling facilities.",
+      "url": "/en/projects/recycling"
     }
   ]
 }
