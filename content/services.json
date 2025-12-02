@@ -2,7 +2,7 @@
   "tr": [
     {
       "id": "kaynak-kaplama",
-      "title": "Kaynak Kaplama (Hardfacing)",
+      "title": "Kaynak Kaplama (Hardfacing) 2",
       "description": "Ağır darbeli ve yüksek aşınmalı yüzeylerde uzun ömür sağlayan dolgu ve kaplama çözümleri.",
       "details": "Ağır darbeli ve yüksek aşınmalı yüzeylerde uzun ömür sağlayan dolgu ve kaplama çözümleri uyguluyoruz. MIG/MAG ve PTA süreçleri robotik kontrolle yapılır.",
       "icon": "Hammer"
@@ -41,6 +41,41 @@
       "description": "Tersine mühendislik ve özel üretim projeleriyle yüksek alaşımlı parça üretimi.",
       "details": "Tersine mühendislik ve özel üretim projeleriyle ağır şartlar için tasarlanmış yüksek alaşımlı parçalar üretiyoruz.",
       "icon": "Cog"
+    },
+    {
+      "id": "",
+      "title": "",
+      "description": "",
+      "details": "",
+      "icon": ""
+    },
+    {
+      "id": "",
+      "title": "",
+      "description": "",
+      "details": "",
+      "icon": ""
+    },
+    {
+      "id": "",
+      "title": "",
+      "description": "",
+      "details": "",
+      "icon": ""
+    },
+    {
+      "id": "",
+      "title": "",
+      "description": "",
+      "details": "",
+      "icon": ""
+    },
+    {
+      "id": "",
+      "title": "",
+      "description": "",
+      "details": "",
+      "icon": ""
     }
   ],
   "en": [
