@@ -30,16 +30,16 @@
   "capabilities": {
     "tr": [
       {
-        "title": "Yüzey Kaplama",
-        "description": "Endüstriyel ekipmanlar için dayanıklı yüzey kaplama çözümleri"
+        "title": "Yüzey Kaplama ",
+        "description": "Endüstriyel ekipmanlar için aşınmaya dayanıklı yüzey kaplama çözümleri"
       },
       {
         "title": "Kaynak Teknolojisi",
-        "description": "İleri kaynak teknikleri ile güçlü bağlantılar"
+        "description": "İleri kaynak teknikleri ve robotik uygulamalar ile güçlü bağlantılar"
       },
       {
         "title": "Hassas Taşlama",
-        "description": "Mikron hassasiyetinde yüzey işleme hizmetleri"
+        "description": "Mikronaltı hassasiyette yüzey işleme hizmetleri"
       }
     ],
     "en": [
@@ -49,11 +49,11 @@
       },
       {
         "title": "Welding Technology",
-        "description": "Strong connections with advanced welding techniques"
+        "description": "Strong connections with robotic / automated advanced welding techniques"
       },
       {
         "title": "Precision Grinding",
-        "description": "Micron-precision surface treatment services"
+        "description": "SubMicron-precision surface treatment services"
       }
     ]
   }
