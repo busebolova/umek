@@ -1,11 +1,12 @@
 {
   "tr": {
-    "title": "Hakkımızda 3",
-    "mission": "Misyonumuz",
-    "missionText": "Endüstriyel ekipmanların ömrünü uzatmak ve performansını artırmak",
-    "vision": "Vizyonumuz",
-    "visionText": "Yüzey kaplama teknolojilerinde küresel lider olmak",
-    "values": [
+    "hero": {
+      "title": "Hakkımızda 3",
+      "paragraph1": "Endüstriyel ekipmanların ömrünü uzatmak ve performansını artırmak",
+      "paragraph2": "Yüzey kaplama teknolojilerinde küresel lider olmak 2",
+      "paragraph3": ""
+    },
+    "expertise": [
       {
         "title": "Kalite",
         "description": "En yüksek standartlarda hizmet"
@@ -17,16 +18,28 @@
       {
         "title": "Güvenilirlik",
         "description": "Müşteri memnuniyeti odaklı"
+      },
+      {
+        "title": "",
+        "description": ""
       }
-    ]
+    ],
+    "workProcess": [],
+    "cta": {
+      "title": "Projeleriniz İçin Bizimle İletişime Geçin",
+      "description": "Endüstriyel ekipmanlarınızın ömrünü uzatmak için profesyonel çözümlerimizi keşfedin.",
+      "primaryButton": "İletişime Geçin",
+      "secondaryButton": "Sektörlerimizi İnceleyin"
+    }
   },
   "en": {
-    "title": "About Us",
-    "mission": "Our Mission",
-    "missionText": "To extend the life and improve the performance of industrial equipment",
-    "vision": "Our Vision",
-    "visionText": "To be a global leader in surface coating technologies",
-    "values": [
+    "hero": {
+      "title": "About Us",
+      "paragraph1": "To extend the life and improve the performance of industrial equipment",
+      "paragraph2": "To be a global leader in surface coating technologies",
+      "paragraph3": ""
+    },
+    "expertise": [
       {
         "title": "Quality",
         "description": "Service at the highest standards"
@@ -39,6 +52,13 @@
         "title": "Reliability",
         "description": "Customer satisfaction focused"
       }
-    ]
+    ],
+    "workProcess": [],
+    "cta": {
+      "title": "Contact Us For Your Projects",
+      "description": "Discover our professional solutions to extend the life of your industrial equipment.",
+      "primaryButton": "Contact Us",
+      "secondaryButton": "Explore Our Sectors"
+    }
   }
 }
