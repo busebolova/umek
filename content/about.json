@@ -1,62 +1,100 @@
 {
   "tr": {
     "hero": {
-      "title": "Hakkımızda 3",
-      "paragraph1": "Endüstriyel ekipmanların ömrünü uzatmak ve performansını artırmak",
-      "paragraph2": "Yüzey kaplama teknolojilerinde küresel lider olmak 2",
-      "paragraph3": ""
+      "title": "Şirket Hakkında",
+      "paragraph1": "UMEK, endüstriyel yüzey kaplama ve onarım teknolojilerinde öncü bir firmadır.",
+      "paragraph2": "Tungsten karbür kaplama, kaynak kaplama (hardfacing), termal sprey ve hassas taşlama alanlarında uzmanlaşmış bir ekiple çalışıyoruz.",
+      "paragraph3": "Modern tesisimiz ve ileri teknoloji ekipmanlarımızla, endüstriyel parçaların aşınma, korozyon ve darbe direncini artırıyoruz."
     },
     "expertise": [
       {
-        "title": "Kalite",
-        "description": "En yüksek standartlarda hizmet"
+        "title": "Kaplama Teknolojileri",
+        "description": "Tungsten karbür, PTA, HVOF ve ARC Spray gibi ileri kaplama yöntemleriyle ekipmanlarınızın dayanıklılığını maksimize ediyoruz."
       },
       {
-        "title": "İnovasyon",
-        "description": "Sürekli teknoloji geliştirme"
+        "title": "Hassas İşleme",
+        "description": "CNC taşlama ve işleme merkezi ile mikron hassasiyetinde yüzey işleme yapıyoruz."
       },
       {
-        "title": "Güvenilirlik",
-        "description": "Müşteri memnuniyeti odaklı"
-      },
-      {
-        "title": "",
-        "description": ""
+        "title": "Endüstriyel Çözümler",
+        "description": "Petrol, madencilik ve üretim sektörlerine özel çözümler sunuyoruz."
       }
     ],
-    "workProcess": [],
+    "workProcess": [
+      {
+        "step": "01",
+        "title": "Analiz & Değerlendirme",
+        "description": "Parçanızın durumunu detaylı olarak inceliyor, aşınma paternlerini analiz ediyor ve en uygun kaplama çözümünü belirliyoruz. Teknik çizimler ve tolerans gereksinimlerini değerlendiriyoruz."
+      },
+      {
+        "step": "02",
+        "title": "Yüzey Hazırlığı",
+        "description": "Parçayı kaplama öncesi temizliyor ve yüzey hazırlığı yapıyoruz. Gerekli ön işlemlerle optimum kaplama adezyonunu sağlıyoruz. Bu aşama, kaplamanın kalitesi için kritiktir."
+      },
+      {
+        "step": "03",
+        "title": "Kaplama Uygulama",
+        "description": "Seçilen teknoloji ile kaplama işlemini gerçekleştiriyoruz. Tungsten karbür, PTA veya termal sprey gibi yöntemlerle parçanın performansını maksimize ediyoruz."
+      },
+      {
+        "step": "04",
+        "title": "İşleme & Kalite Kontrol",
+        "description": "Kaplanan parçayı hassas taşlama ile nihai ölçülere getiriyoruz. Kapsamlı kalite kontrolü yaparak tüm toleransları doğruluyoruz ve parçayı kullanıma hazır halde teslim ediyoruz."
+      }
+    ],
     "cta": {
       "title": "Projeleriniz İçin Bizimle İletişime Geçin",
-      "description": "Endüstriyel ekipmanlarınızın ömrünü uzatmak için profesyonel çözümlerimizi keşfedin.",
+      "description": "Endüstriyel ekipmanlarınızın ömrünü uzatmak ve performansını artırmak için profesyonel kaplama çözümlerimizi keşfedin. Size özel teknik danışmanlık için buradayız.",
       "primaryButton": "İletişime Geçin",
       "secondaryButton": "Sektörlerimizi İnceleyin"
     }
   },
   "en": {
     "hero": {
-      "title": "About Us",
-      "paragraph1": "To extend the life and improve the performance of industrial equipment",
-      "paragraph2": "To be a global leader in surface coating technologies",
-      "paragraph3": ""
+      "title": "About Company",
+      "paragraph1": "UMEK is a leading company in industrial surface coating and repair technologies.",
+      "paragraph2": "We work with a specialized team in tungsten carbide coating, hardfacing, thermal spray and precision grinding.",
+      "paragraph3": "With our modern facility and advanced technology equipment, we increase the wear, corrosion and impact resistance of industrial parts."
     },
     "expertise": [
       {
-        "title": "Quality",
-        "description": "Service at the highest standards"
+        "title": "Coating Technologies",
+        "description": "We maximize the durability of your equipment with advanced coating methods such as tungsten carbide, PTA, HVOF and ARC Spray."
       },
       {
-        "title": "Innovation",
-        "description": "Continuous technology development"
+        "title": "Precision Machining",
+        "description": "We perform surface machining with micron precision using CNC grinding and machining center."
       },
       {
-        "title": "Reliability",
-        "description": "Customer satisfaction focused"
+        "title": "Industrial Solutions",
+        "description": "We offer special solutions for oil, mining and manufacturing sectors."
       }
     ],
-    "workProcess": [],
+    "workProcess": [
+      {
+        "step": "01",
+        "title": "Analysis & Evaluation",
+        "description": "We examine your part in detail, analyze wear patterns and determine the most suitable coating solution. We evaluate technical drawings and tolerance requirements."
+      },
+      {
+        "step": "02",
+        "title": "Surface Preparation",
+        "description": "We clean the part and prepare the surface before coating. We ensure optimum coating adhesion with necessary pre-treatments. This stage is critical for the quality of the coating."
+      },
+      {
+        "step": "03",
+        "title": "Coating Application",
+        "description": "We perform the coating process with the selected technology. We maximize the performance of the part with methods such as tungsten carbide, PTA or thermal spray."
+      },
+      {
+        "step": "04",
+        "title": "Machining & Quality Control",
+        "description": "We bring the coated part to final dimensions with precision grinding. We verify all tolerances by performing comprehensive quality control and deliver the part ready for use."
+      }
+    ],
     "cta": {
       "title": "Contact Us For Your Projects",
-      "description": "Discover our professional solutions to extend the life of your industrial equipment.",
+      "description": "Discover our professional coating solutions to extend the life and improve the performance of your industrial equipment. We are here for technical consultancy special for you.",
       "primaryButton": "Contact Us",
       "secondaryButton": "Explore Our Sectors"
     }
