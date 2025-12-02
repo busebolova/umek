@@ -1,48 +1,90 @@
 {
   "tr": [
     {
-      "id": "enerji-santralleri",
-      "title": "Enerji Santralleri Katalogu",
-      "description": "Petrol, doğalgaz ve enerji sektörü ekipmanları için kaplama çözümleri. Türbin kanatları, pompa impellerleri ve valf sistemleri için özel uygulamalar.",
-      "url": "https://drive.google.com/file/d/EXAMPLE_ID_1/view",
+      "id": "tungsten-karbur-kaplama",
+      "title": "Tungsten Karbür Kaplama",
+      "description": "Ekipmanlarınıza maksimum aşınma direnci kazandırın. Tungsten karbür kaplama hizmetlerimiz hakkında detaylı bilgi.",
+      "url": "https://drive.google.com/file/d/1RpEo6QjksxPe9GpBagC4MhNPcbpN69bV/view?usp=drive_link",
       "fileSize": "2.5 MB"
     },
     {
-      "id": "madencilik-ekipmanlari",
-      "title": "Madencilik Ekipmanları Katalogu",
-      "description": "Madencilik sektörü aşınma direnci çözümleri. Kırıcı çeneler, konveyör rulolar ve kazıcı uçlar için tungsten karbür ve hardfacing kaplamalar.",
-      "url": "https://drive.google.com/file/d/EXAMPLE_ID_2/view",
+      "id": "kaynak-kaplama",
+      "title": "Kaynak Kaplama (Hardfacing)",
+      "description": "Darbe ve aşınmaya karşı maksimum koruma sağlayan kaynak bazlı sert yüzey oluşturma teknolojisi.",
+      "url": "https://drive.google.com/file/d/1gFLL2qC_6xgTSi_Fzly35ogAOqUisaa1/view?usp=drive_link",
       "fileSize": "3.1 MB"
     },
     {
-      "id": "hidroelektrik-santral",
-      "title": "Hidroelektrik Santral Çözümleri",
-      "description": "Türbin ve pompa ekipmanları için kaplama sistemleri. Kavitasyon ve erozyon direnci yüksek özel kaplamalar.",
-      "url": "https://drive.google.com/file/d/EXAMPLE_ID_3/view",
-      "fileSize": "1.8 MB"
+      "id": "termal-sprey",
+      "title": "Termal Sprey Kaplama",
+      "description": "HVOF, ARC ve plazma sprey teknolojileri ile korozyon ve aşınma direnci.",
+      "url": "https://drive.google.com/file/d/1wm__8FznTm0THrTULSKblCcSjFRzTmd3/view?usp=drive_link",
+      "fileSize": "2.8 MB"
+    },
+    {
+      "id": "cnc-taslama",
+      "title": "CNC Taşlama ve İşleme",
+      "description": "Mikron hassasiyetinde yüzey işleme ve kaplanan parçaların son işlemesi.",
+      "url": "https://drive.google.com/file/d/1LOFfQKvecvMgi3QVAMFo3ek5TugTdcPK/view?usp=drive_link",
+      "fileSize": "1.9 MB"
+    },
+    {
+      "id": "petrol-gaz",
+      "title": "Petrol ve Gaz Sektörü Çözümleri",
+      "description": "Enerji sektörü ekipmanları için özel kaplama çözümleri ve uygulamalar.",
+      "url": "https://drive.google.com/file/d/1KFmJSJioaLqSv94z6NbDYD1SVG6WFFGa/view?usp=drive_link",
+      "fileSize": "3.2 MB"
+    },
+    {
+      "id": "madencilik",
+      "title": "Madencilik Ekipmanları",
+      "description": "Madencilik sektörü için aşınma direnci çözümleri ve kaplama sistemleri.",
+      "url": "https://drive.google.com/file/d/1KHZv6BACKlvnlIB8pfyRcaRLpbdCfXJx/view?usp=drive_link",
+      "fileSize": "2.7 MB"
     }
   ],
   "en": [
     {
-      "id": "power-plants",
-      "title": "Power Plants Catalog",
-      "description": "Coating solutions for oil, natural gas and energy sector equipment. Special applications for turbine blades, pump impellers and valve systems.",
-      "url": "https://drive.google.com/file/d/EXAMPLE_ID_1/view",
+      "id": "tungsten-carbide-coating",
+      "title": "Tungsten Carbide Coating",
+      "description": "Maximum wear resistance for your equipment. Detailed information about our tungsten carbide coating services.",
+      "url": "https://drive.google.com/file/d/1RpEo6QjksxPe9GpBagC4MhNPcbpN69bV/view?usp=drive_link",
       "fileSize": "2.5 MB"
     },
     {
-      "id": "mining-equipment",
-      "title": "Mining Equipment Catalog",
-      "description": "Mining sector wear resistance solutions. Tungsten carbide and hardfacing coatings for crusher jaws, conveyor rollers and excavator tips.",
-      "url": "https://drive.google.com/file/d/EXAMPLE_ID_2/view",
+      "id": "hardfacing",
+      "title": "Hardfacing",
+      "description": "Welding-based hard surface creation technology for maximum protection against impact and wear.",
+      "url": "https://drive.google.com/file/d/1gFLL2qC_6xgTSi_Fzly35ogAOqUisaa1/view?usp=drive_link",
       "fileSize": "3.1 MB"
     },
     {
-      "id": "hydroelectric-plant",
-      "title": "Hydroelectric Power Plant Solutions",
-      "description": "Coating systems for turbine and pump equipment. Special coatings with high cavitation and erosion resistance.",
-      "url": "https://drive.google.com/file/d/EXAMPLE_ID_3/view",
-      "fileSize": "1.8 MB"
+      "id": "thermal-spray",
+      "title": "Thermal Spray Coating",
+      "description": "Corrosion and wear resistance with HVOF, ARC and plasma spray technologies.",
+      "url": "https://drive.google.com/file/d/1wm__8FznTm0THrTULSKblCcSjFRzTmd3/view?usp=drive_link",
+      "fileSize": "2.8 MB"
+    },
+    {
+      "id": "cnc-grinding",
+      "title": "CNC Grinding and Machining",
+      "description": "Surface machining with micron precision and final processing of coated parts.",
+      "url": "https://drive.google.com/file/d/1LOFfQKvecvMgi3QVAMFo3ek5TugTdcPK/view?usp=drive_link",
+      "fileSize": "1.9 MB"
+    },
+    {
+      "id": "oil-gas",
+      "title": "Oil and Gas Sector Solutions",
+      "description": "Special coating solutions and applications for energy sector equipment.",
+      "url": "https://drive.google.com/file/d/1KFmJSJioaLqSv94z6NbDYD1SVG6WFFGa/view?usp=drive_link",
+      "fileSize": "3.2 MB"
+    },
+    {
+      "id": "mining",
+      "title": "Mining Equipment",
+      "description": "Wear resistance solutions and coating systems for the mining sector.",
+      "url": "https://drive.google.com/file/d/1KHZv6BACKlvnlIB8pfyRcaRLpbdCfXJx/view?usp=drive_link",
+      "fileSize": "2.7 MB"
     }
   ]
 }
