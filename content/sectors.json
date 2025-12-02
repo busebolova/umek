@@ -1,10 +1,10 @@
 {
   "tr": [
     {
-      "id": "petrol-gaz",
-      "title": "Petrol • Doğalgaz • Jeotermal",
+      "id": "petrol-dogalgaz-jeotermal3",
+      "title": "Petrol • Doğalgaz • Jeotermal3",
       "description": "UMEK, petrol, doğalgaz ve jeotermal enerji sektörlerinde kullanılan ekipmanlar için özel yüzey kaplama çözümleri sunar. Sondaj bitleri, pompa parçaları ve valf sistemleri için aşınma direnci yüksek kaplamalar uyguluyoruz.",
-      "url": "/projects/petrol-gaz"
+      "url": "/projects/petrol-dogalgaz-jeotermal3"
     },
     {
       "id": "madencilik",
@@ -13,10 +13,10 @@
       "url": "/projects/madencilik"
     },
     {
-      "id": "hidroelektrik",
+      "id": "hidroelektrik-santralleri",
       "title": "Hidroelektrik Santralleri",
       "description": "Türbin kanatları, pompa impellerleri ve valf gövdeleri için kavitasyon ve erozyon direnci yüksek kaplamalar sunuyoruz. Enerji santrallerinin bakım sürelerini azaltıyoruz.",
-      "url": "/projects/hidroelektrik"
+      "url": "/projects/hidroelektrik-santralleri"
     },
     {
       "id": "geri-donusum",
@@ -27,10 +27,10 @@
   ],
   "en": [
     {
-      "id": "oil-gas",
+      "id": "oil-natural-gas-geothermal",
       "title": "Oil • Natural Gas • Geothermal",
       "description": "UMEK provides special surface coating solutions for equipment used in oil, natural gas and geothermal energy sectors. We apply high wear-resistant coatings for drill bits, pump parts and valve systems.",
-      "url": "/en/projects/oil-gas"
+      "url": "/en/projects/oil-natural-gas-geothermal"
     },
     {
       "id": "mining",
@@ -39,10 +39,10 @@
       "url": "/en/projects/mining"
     },
     {
-      "id": "hydroelectric",
+      "id": "hydroelectric-power-plants",
       "title": "Hydroelectric Power Plants",
       "description": "We offer coatings with high cavitation and erosion resistance for turbine blades, pump impellers and valve bodies. We reduce maintenance times of power plants.",
-      "url": "/en/projects/hydroelectric"
+      "url": "/en/projects/hydroelectric-power-plants"
     },
     {
       "id": "recycling",
