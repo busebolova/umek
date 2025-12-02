@@ -1,24 +1,35 @@
 [
   {
     "title": {
-      "tr": "Enerji Santralleri",
-      "en": "Power Plants"
+      "tr": "Enerji Santralleri Katalogu",
+      "en": "Power Plants Catalog"
     },
     "description": {
-      "tr": "Petrol, gaz ve enerji sektörü",
-      "en": "Oil, gas and energy sector"
+      "tr": "Petrol, doğalgaz ve enerji sektörü ekipmanları için kaplama çözümleri",
+      "en": "Coating solutions for oil, natural gas and energy sector equipment"
     },
     "url": "https://drive.google.com/file/d/example1/view"
   },
   {
     "title": {
-      "tr": "Madencilik Ekipmanları",
-      "en": "Mining Equipment"
+      "tr": "Madencilik Ekipmanları Katalogu",
+      "en": "Mining Equipment Catalog"
     },
     "description": {
-      "tr": "Madencilik sektörü çözümleri",
-      "en": "Mining sector solutions"
+      "tr": "Madencilik sektörü aşınma direnci çözümleri",
+      "en": "Mining sector wear resistance solutions"
     },
     "url": "https://drive.google.com/file/d/example2/view"
+  },
+  {
+    "title": {
+      "tr": "Hidroelektrik Santral Çözümleri",
+      "en": "Hydroelectric Power Plant Solutions"
+    },
+    "description": {
+      "tr": "Türbin ve pompa ekipmanları için kaplama sistemleri",
+      "en": "Coating systems for turbine and pump equipment"
+    },
+    "url": "https://drive.google.com/file/d/example3/view"
   }
 ]
