@@ -1,0 +1,47 @@
+{
+  "petrol-gaz": {
+    "tr": {
+      "title": "Petrol • Doğalgaz • Jeotermal",
+      "description": "Petrol, doğalgaz ve jeotermal enerji sektörlerinde kullanılan ekipmanlar için özel yüzey kaplama çözümleri sunuyoruz.",
+      "intro": "Enerji sektörü ekipmanları son derece zorlu koşullarda çalışır. Yüksek basınç, aşındırıcı ortamlar ve sürekli temas, parçaların hızla aşınmasına neden olur. UMEK'in ileri kaplama teknolojileri ile ekipmanlarınızın ömrünü önemli ölçüde uzatabilirsiniz.",
+      "technicalSpecs": [
+        {
+          "title": "Sondaj Bitleri",
+          "description": "Tungsten karbür ve diamond coating ile aşırı aşınma direnci"
+        },
+        {
+          "title": "Pompa Parçaları",
+          "description": "Kavitasyon ve erozyon direnci yüksek HVOF kaplamalar"
+        },
+        {
+          "title": "Valf Sistemleri",
+          "description": "Korozyon direnci için özel alaşım kaplamalar"
+        }
+      ],
+      "coatingTypes": [
+        {
+          "name": "Tungsten Karbür",
+          "description": "Extreme aşınma direnci sağlar",
+          "hardness": "1400-2200 HV"
+        },
+        {
+          "name": "HVOF Spray",
+          "description": "Yüksek hızlı oksijen yakıt spreyi",
+          "thickness": "0.1-0.5 mm"
+        },
+        {
+          "name": "Chrome Carbide",
+          "description": "Korozyon ve aşınma kombinasyonu",
+          "temperature": "800°C'ye kadar"
+        }
+      ],
+      "materials": [
+        "WC-Co (Tungsten Carbide Cobalt)",
+        "Cr3C2-NiCr (Chrome Carbide)",
+        "Stellite Alaşımları",
+        "Colmonoy Alaşımları"
+      ],
+      "pdfCatalogs": [
+        {
+          "title": "Petrol & Gaz Ekipmanları Katalogu",
+          "url": "https://drive.google.com/file/d/EXAMPLE_
