@@ -23,6 +23,12 @@
       "title": "Geri Dönüşüm",
       "description": "Geri dönüşüm tesislerinde kullanılan kırıcı, öğütücü ve taşıma ekipmanları için aşınma ve darbe direnci sağlayan kaplama sistemleri uyguluyoruz.",
       "url": "/projects/geri-donusum"
+    },
+    {
+      "id": "deneme",
+      "title": "deneme",
+      "description": "deneme",
+      "url": "/projects/deneme"
     }
   ],
   "en": [
@@ -49,6 +55,12 @@
       "title": "Recycling",
       "description": "We apply coating systems that provide wear and impact resistance for crushing, grinding and conveying equipment used in recycling facilities.",
       "url": "/en/projects/recycling"
+    },
+    {
+      "id": "sector-en-1764756163319-4905",
+      "title": "",
+      "description": "",
+      "url": "/en/projects/sector-en-1764756163319-4905"
     }
   ]
 }
